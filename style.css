@@ -6,6 +6,8 @@
 body {
   /* text-align: center; */
   /* text-transform: capitalize; */
+  padding-left: 1rem;
+  padding-right: 1rem;
   font-family: "Poppins", sans-serif;
 }
 .heading {
