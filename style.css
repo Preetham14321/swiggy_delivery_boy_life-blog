@@ -13,8 +13,12 @@ body {
   color: rgb(204, 149, 45);
   text-align: center;
 }
+.subheading {
+  text-align: center;
+}
+
 .question {
-  padding: 1rem;
+  padding-left: 1rem;
   color: rgb(132, 101, 161);
 }
 
