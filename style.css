@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  /* text-align: center; */
+  /* text-transform: capitalize; */
+}
+.heading {
+  text-decoration: underline;
+  color: rgb(204, 149, 45);
+  text-align: center;
+}
+.question {
+  padding: 1rem;
+}
+
+.arrow {
+  color: rgb(41, 177, 182);
+}
