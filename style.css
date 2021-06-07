@@ -15,8 +15,12 @@ body {
 }
 .question {
   padding: 1rem;
+  color: blueviolet;
 }
 
 .arrow {
   color: rgb(41, 177, 182);
+}
+.answer {
+  color: rgb(146, 129, 129);
 }
